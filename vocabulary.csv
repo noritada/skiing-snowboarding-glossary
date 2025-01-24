@@ -1,26 +1,86 @@
 Group,English,Japanese
 Body parts,upper body,上体
+Body parts,hip,腰
 Body parts,hip joint,股関節
+Body parts,thigh,腿
 Body parts,knee,膝
+Body parts,shin,脛
+Body parts,ankle,足首
 Body parts,heel,踵
 Equipments,helmet,ヘルメット
-Equipments,ski poles,スキーストック (ポール)
+Equipments,goggles,ゴーグル
+Equipments,ski gloves,スキーグローブ
+Equipments,ski poles,スキーストック / ポール
+Equipments,ventilation,ベンチレーション
 Equipments,ski boots,スキーブーツ
+Equipments,buckle,バックル
+Equipments,inner boots,インナーブーツ
+Equipments,insole,インソール
 Equipments,flex,フレックス
+Equipments,top,トップ
+Equipments,tail,テール
 Equipments,side curve,サイドカーブ
 Equipments,side edges,サイドエッジ
+Equipments,sole,ソール
+Equipments,bindings,ビンディング
+Equipments,toe pieces,トゥーピース
+Equipments,heel pieces,ヒールピース
+Equipments,stopper,ストッパー
+Ski basics,outside ski,外スキー
+Ski basics,inside ski,内スキー
+Ski basics,outer edge,アウトエッジ
+Ski basics,inner edge,インエッジ
+Ski basics,uphill ski,山スキー
+Ski basics,downhill ski,谷スキー
+Ski basics,uphill leg,山足
+Ski basics,downhill leg,谷足
+Turns and skiing operations,snowplough turn,プルークボーゲン
+Turns and skiing operations,snowplow,プルークボーゲンで滑る
+Turns and skiing operations,stem turn,シュテムターン
+Turns and skiing operations,parallel turn,パラレルターン
+Turns and skiing operations,carved turn,カービングターン
 Turns and skiing operations,long turn,大回り
 Turns and skiing operations,short turn,小回り
 Turns and skiing operations,fall line,フォールライン
-Turns and skiing operations,outside ski,外スキー
-Turns and skiing operations,inside ski,内スキー
+Turns and skiing operations,edging,角付け / エッジング
+Turns and skiing operations,carve,カービングする / 切る
+Turns and skiing operations,skid,ずらす
+Turns and skiing operations,twist,ひねる
+Turns and skiing operations,weighting,荷重
+Turns and skiing operations,unweighting,抜重
 Turns and skiing operations,leaning forward,前傾
 Turns and skiing operations,leaning backward,後傾
 Turns and skiing operations,inward leaning,内傾
 Turns and skiing operations,hip bend,外傾
+Turns and skiing operations,angulation,外向傾姿勢
+Turns and skiing operations,position,ポジション
 Turns and skiing operations,upper body rotation,上体のローテーション
 Turns and skiing operations,stance,スタンス
+Turns and skiing operations,bend,曲げ / ベンディング
+Turns and skiing operations,stretch,伸ばし / ストレッチング
+Turns and skiing operations,kickturn,キックターン
+Turns and skiing operations,skate skiing,スケーティング
+Ski resort,ski resort,スキー場
+Ski resort,lift tickets / lift pass,リフト券
+Ski resort,ski patrol,パトロール
+Ski resort,ski patroller,パトロール隊員
+Slopes,green slopes,初級者コース
+Slopes,blue slopes,中級者コース
+Slopes,red slopes,上級者コース
+Slopes,black slopes,最上級者コース
 Slopes,steep slopes,急斜面
 Slopes,gentle slopes,緩斜面
-Slopes,groomed slopes,圧雪斜面
+Slopes,groomed slopes,圧雪コース
 Slopes,bump slopes,コブ斜面
+Slopes,north-facing,北向きの
+Slopes,south-facing,南向きの
+Slopes,low-elevation,標高の低い
+Slopes,high-elevation,標高の高い
+Slopes,conditions,バーンコンディション
+Slopes,icy,アイスバーンの
+Slopes,compacted snow,圧雪
+Slopes,fresh snow,新雪
+Slopes,deep snow,深雪
+Slopes,wet snow,湿雪
+Ski types,Telemark skiing,テレマークスキー
+Ski types,Mogul skiing,モーグル

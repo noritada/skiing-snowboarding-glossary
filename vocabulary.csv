@@ -82,5 +82,15 @@ Slopes,compacted snow,圧雪
 Slopes,fresh snow,新雪
 Slopes,deep snow,深雪
 Slopes,wet snow,湿雪
+Weather phenomena,fog,霧
+Weather phenomena,graupel,霰
+Weather phenomena,hail,雹
+Weather phenomena,avalanche,雪崩
+Weather phenomena,avalanche-prone areas,雪崩多発地帯
+Weather phenomena,snow bridge / avalanche barrier / avalanche fence,雪崩予防柵
+Weather phenomena,crack,割れ目 / クラック
+Weather phenomena,snow cornice,雪庇
+Weather phenomena,visibility,視界
+Weather phenomena,poor visibility,視界不良
 Ski types,Telemark skiing,テレマークスキー
 Ski types,Mogul skiing,モーグル

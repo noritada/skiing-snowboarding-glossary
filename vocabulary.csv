@@ -81,6 +81,11 @@ Slopes,north-facing,北向きの
 Slopes,south-facing,南向きの
 Slopes,low-elevation,標高の低い
 Slopes,high-elevation,標高の高い
+Slopes,junction of trails,コースの合流・分岐地点
+Slopes,confluence of trails,コースの合流地点
+Slopes,fork of trails,コースの分岐地点
+Slopes,intersection of trails,コースの交差地点
+Slopes,traverse,横切る / トラバースする
 Slopes,conditions,バーンコンディション
 Slopes,icy,アイスバーンの
 Slopes,compacted snow,圧雪

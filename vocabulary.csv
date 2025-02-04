@@ -81,6 +81,9 @@ Slopes,north-facing,北向きの
 Slopes,south-facing,南向きの
 Slopes,low-elevation,標高の低い
 Slopes,high-elevation,標高の高い
+Slopes,slope / gradient,傾斜 / 斜度
+Slopes,point of varying slope,斜度変化地点
+Slopes,unevenness of slopes,斜面の凹凸
 Slopes,junction of trails,コースの合流・分岐地点
 Slopes,confluence of trails,コースの合流地点
 Slopes,fork of trails,コースの分岐地点
@@ -92,6 +95,8 @@ Slopes,compacted snow,圧雪
 Slopes,fresh snow,新雪
 Slopes,deep snow,深雪
 Slopes,wet snow,湿雪
+Slopes,artificial snow,人工雪
+Slopes,natural snow,天然雪
 Weather phenomena,fog,霧
 Weather phenomena,graupel,霰
 Weather phenomena,hail,雹

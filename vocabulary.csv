@@ -46,6 +46,7 @@ Turns and skiing operations,edging,角付け / エッジング
 Turns and skiing operations,carve,カービングする / 切る
 Turns and skiing operations,skid,ずらす
 Turns and skiing operations,twist,ひねる
+Turns and skiing operations,sideslip,横滑りする
 Turns and skiing operations,weighting,荷重
 Turns and skiing operations,unweighting,抜重
 Turns and skiing operations,leaning forward,前傾
@@ -54,6 +55,10 @@ Turns and skiing operations,inward leaning,内傾
 Turns and skiing operations,hip bend,外傾
 Turns and skiing operations,angulation,外向傾姿勢
 Turns and skiing operations,position,ポジション
+Turns and skiing operations,footing,足場
+Turns and skiing operations,solid footing / stable footing / strong footing,しっかりした足場 / 安定した足場
+Turns and skiing operations,poor footing / unstable footing,不安定な足場
+Turns and skiing operations,lose one's footing,足を取られる
 Turns and skiing operations,upper body rotation,上体のローテーション
 Turns and skiing operations,stance,スタンス
 Turns and skiing operations,bend,曲げ / ベンディング
